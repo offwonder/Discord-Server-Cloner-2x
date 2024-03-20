@@ -370,7 +370,7 @@ export const configOptions2: any = {
   Debug: false,
 };
 export const configOptions: any = {
-  maxMessagesPerChannel: 0,
+  maxMessagesPerChannel: 5,
   jsonSave: true,
   jsonBeautify: true,
   doNotBackup: ["bans", "emojis"],
